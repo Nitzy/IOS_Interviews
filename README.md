@@ -1,7 +1,7 @@
 # IOS_Interviews
 A comprehensive list of links and questions about iOS to ace your interviews. 
 
-Links
+Links : 
 - https://www.raywenderlich.com/53962/ios-interview-questions
 - https://www.raywenderlich.com/110982/swift-interview-questions-answers
 - https://www.toptal.com/ios/interview-questions
@@ -14,22 +14,12 @@ Links
 
 
 
-Interview Assigngments
+Interview Assigngments : 
 - https://github.com/diwu/LeetCode-Solutions-in-Swift
 
 
-Contribution Guidelines
-
-Please ensure your pull request adheres to the following guidelines:
-
-Search previous suggestions before making a new one, as yours may be a duplicate.
-
-Make an individual pull request for each suggestion. \n
+Contribution Guidelines : 
+ 
 Use the following format: [Title](Link) - Description
-New categories, or improvements to the existing categorization are welcome.
-Keep descriptions short and simple, but descriptive.
-End all descriptions with a full stop/period.
-Check your spelling and grammar.
-Make sure that your suggestion is positioned as the last item category.
-Make sure your text editor is set to remove trailing whitespace.
 Your contributions are always welcome! Thank you for your suggestions! 😃
+
