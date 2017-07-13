@@ -12,6 +12,7 @@ Links :
 - https://medium.com/ios-os-x-development/50-ios-interview-questions-and-answers-part-3-3fad146b6c3d
 - http://blog.udacity.com/2014/11/your-top-10-swift-questions-answered.html
 - https://trello.com/b/GQTwWMbx/interview
+- https://www.youtube.com/watch?v=RTpUKu9Ph_M
 
 
 
